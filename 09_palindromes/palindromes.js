@@ -4,7 +4,5 @@ const palindromes = function (string) {
     return (newString == oldString);
 };
 
-// palindromes("race_____ )*&&)&)car");
-
 // Do not edit below this line
 module.exports = palindromes;
